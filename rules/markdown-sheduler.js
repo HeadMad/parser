@@ -1,0 +1,1 @@
+export default ['codeblock', 'code', 'headings', 'blockquote', 'list', 'spoiler', 'link', 'bold', 'underline', 'italic', 'del', 'buttons' ];
